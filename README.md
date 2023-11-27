@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="350"/>
   <div id="badges">
   <a href="">
      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100" alt="Linkedin"/>
@@ -20,10 +20,10 @@
   </div>
   </div>
   
-  <div>
-     :woman_technologist: About Me :  I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
-     :telescope: I’m working as a contributing to frontend and backend for building web applications.
-     :zap: In my free time, I solve problems read tech articles...
+  <div >
+     <p>:woman_technologist: About Me :  I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.</p>
+     <p>telescope: I’m working as a contributing to frontend and backend for building web applications.</p> :
+     <p>:zap: In my free time, I solve problems read tech articles...</p> 
   </div>
 <hr>
 
