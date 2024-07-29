@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="350"/>
   <div id="badges">
-  <a href="">
+  <a href="https://www.linkedin.com/in/vadym-naumenko-103538255/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100" alt="Linkedin"/>
   </a>
-  <a href="">
+<!--   <a href="">
      <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" width="50" alt="Twitter"/>
-  </a>
+  </a> -->
     <div>
       <img src="https://komarev.com/ghpvc/?username=vadymNaumenko&style=flat&color=blueviolet&label=PROFILE+VIEWS"/>
     </div>
