@@ -5,7 +5,7 @@
      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100" alt="Linkedin"/>
   </a>
   <a href="">
-     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" width="100" alt="Twitter"/>
+     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" width="50" alt="Twitter"/>
   </a>
     <div>
       <img src="https://komarev.com/ghpvc/?username=vadymNaumenko&style=flat&color=blueviolet&label=PROFILE+VIEWS"/>
